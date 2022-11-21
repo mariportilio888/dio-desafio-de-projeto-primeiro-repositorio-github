@@ -18,9 +18,9 @@ Abaixo veremos alguns comandos/flags e funcionalidades aprendido no decorrer do 
 
 **Git init** - Ele Cria um diretório e inicializa o Git dentro do diretório criado a partir da sua área de trabalho
 
-**Git add** - Para adicionar um novo objeto ou alterações ao Git. Ao utilizar o junto (*)  ou o (-A) você consegue incluir todas os novos objetos e modificações.
+**Git add** - Para adicionar um novo objeto ou alterações ao Git. Ao utilizar o junto (*) você consegue incluir todas os novos objetos e modificações.
 
-**Git commit -m ''descrição"** - Para colocar as anotações do que foi atualizado, incluído, etc, essas anotações são muito importantes para as pessoas que todos saibam a que se refere aqueles commits. 
+**Git commit -m ''descrição"** - Para colocar as anotações do que foi atualizado, incluído, etc, essas anotações são muito importantes para que todos saibam a que se refere aqueles commits. 
 
 **Git Status** - Para verificar como o próprio comando já diz, o status do objeto dentro do Git
 
