@@ -6,7 +6,7 @@ Abaixo veremos alguns comandos/flags e funcionalidades aprendido no decorrer do 
 
 **CD "nome do local"** - Para ir para uma pasta específica. Pode-se usar o "TAB" para auto completar a escrita assim não corre-se o risco de digitar errado.
 
-***CD .. **- Volta para a pasta anterior
+**CD .. **- Volta para a pasta anterior
 
 **Clear** - Limpa, também pode usar o atalho CTRL+L
 
