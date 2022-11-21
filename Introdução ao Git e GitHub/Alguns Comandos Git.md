@@ -1,6 +1,6 @@
 # Comandos e funcionalidades Git Bash
 
-Abaixo veremos alguns comandos/flags e funcionalidades aprendido no decorrer do curso:
+Abaixo veremos alguns comandos/flags e funcionalidades aprendidos no decorrer do curso:
 
 **CD** - Comando para navegar dentro das pastas. 
 
