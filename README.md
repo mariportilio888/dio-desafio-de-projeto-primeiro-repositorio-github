@@ -1,6 +1,6 @@
-# Dio Bootcamp Orange Tech
+# Dio Bootcamp Orange Tech 
 
-### Primeiro Desafio de Projeto sobre uso do Git/GitHub.
+### Primeiro Desafio de Projeto sobre uso do Git/GitHub :file_folder:
 
 - Criar diretório GitHub
 - Baixar diretório em sua área de trabalho com o auxílio do Git.
